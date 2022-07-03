@@ -1,0 +1,19 @@
+{
+  "name": "index-js",
+  "version": "1.0.0",
+  "description": "my new project on node.js",
+  "main": "test.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "nodemon": "^2.0.18"
+  }
+}
