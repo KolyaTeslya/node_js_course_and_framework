@@ -10,10 +10,12 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.1",
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "mongoose": "^6.4.2",
+    "mongose": "^0.0.2-security"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
-    "nodemon": "^2.0.18"
+    "nodemon": "^1.3.3"
   }
 }
